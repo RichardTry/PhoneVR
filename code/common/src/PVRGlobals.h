@@ -38,6 +38,7 @@ extern PVR_STATE pvrState;
 #include "Utils/StrUtils.h"
 #include "Utils/ThreadUtils.h"
 
+#include <cstring>
 
 //////// DEBUG //////////
 
